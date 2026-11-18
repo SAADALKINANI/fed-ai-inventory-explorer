@@ -1,0 +1,17 @@
+FICTIONAL SAMPLE - Technical Volume, Vendor A
+
+Our DocSort platform classifies incoming grant reports into 15 configurable report types using a fine-tuned transformer model. In a pilot with a similar agency it reached 97 percent classification accuracy.
+
+Field extraction covers the award number, reporting period, total expenditures and 20 other fields. Our documented extraction accuracy on government forms is 96 percent, measured on a held-out test set of 5,000 documents.
+
+The platform runs in our FedRAMP Moderate authorized cloud environment. Data is encrypted at rest with AES-256 and in transit with TLS 1.3, using FIPS 140-validated cryptographic modules.
+
+Low-confidence extractions are routed to a human review queue where agency staff can correct values before they are saved to the system of record.
+
+We will deliver a model card describing training data sources, evaluation results, and known limitations. We test accuracy separately for scanned documents and born-digital documents and will report any performance gap between them in each monthly report.
+
+Agency data is used only for this agency's models and is never used to train models offered to other customers.
+
+Monthly status reports will include accuracy metrics, volumes processed and open issues. Our key personnel are a certified project manager and a machine learning lead with eight years of experience.
+
+At contract end we provide a transition plan and full export of all data, model configurations and review history in open formats.

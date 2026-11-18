@@ -1,0 +1,21 @@
+FICTIONAL SAMPLE - Request for Quotation: Document Intelligence Services
+
+C.1 Background
+The agency receives about 40,000 grant reports per year and wants to speed up their review.
+
+C.2 Technical Requirements
+C.2.1 The contractor shall provide a document classification service that sorts incoming grant reports into at least 12 report types.
+C.2.2 The solution must extract key fields, including award number, reporting period and total expenditures, with documented accuracy of at least 95 percent.
+C.2.3 The contractor shall host the solution in a FedRAMP Moderate authorized cloud environment.
+C.2.4 All data must be encrypted at rest and in transit using FIPS 140-validated cryptography.
+C.2.5 The system shall provide a human review queue so that staff can correct low-confidence extractions before they are saved.
+
+C.3 Responsible AI
+C.3.1 The contractor shall deliver model documentation describing training data, evaluation results and known limitations.
+C.3.2 The contractor must test extraction accuracy separately for scanned and born-digital documents and report any performance gaps.
+C.3.3 The contractor shall not use agency data to train models offered to other customers.
+
+C.4 Management
+C.4.1 The contractor will provide monthly status reports, including accuracy metrics and open issues.
+C.4.2 Key personnel shall include a project manager and a machine learning lead with at least five years of experience.
+C.4.3 The contractor shall provide a transition plan that allows the agency to export all data and configurations at contract end.

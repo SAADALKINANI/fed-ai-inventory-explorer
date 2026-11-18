@@ -1,0 +1,13 @@
+FICTIONAL SAMPLE - Technical Volume, Vendor B
+
+Vendor B brings 20 years of experience in digital transformation for government clients. Our AI-powered platform delivers insights at scale.
+
+Our classification engine sorts grant reports into report types using advanced machine learning.
+
+The solution extracts key information from documents, including award numbers.
+
+Our cloud is secure and follows industry best practices for encryption.
+
+We provide a dashboard so managers can see processing volumes. Our team will send a status report each quarter.
+
+Our project manager has led many successful implementations.
